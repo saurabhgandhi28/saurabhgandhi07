@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@saurabhgandhi07**
+- 👋 Hi, I’m **Saurabh Gandhi**
 - 🌱 I’m currently learning --- **React**
 - 📫 How to reach me --- **gandhisaurabh9956@gmail.com**
 
